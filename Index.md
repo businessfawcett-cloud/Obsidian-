@@ -5,6 +5,7 @@ This vault contains all strategic docs, system designs, and operating procedures
 ## 📁 Structure
 - [[00-System/Architecture]] — System overview
 - [[00-System/Crons]] — All scheduled jobs
+- [[00-System/Agent-Registry]] — **Agent domain ownership (read first)**
 - [[01-Marketing/ICP]] — Ideal Customer Profile
 - [[01-Marketing/Outreach]] — Outreach system
 - [[01-Marketing/Content]] — Content/SEO pipeline
