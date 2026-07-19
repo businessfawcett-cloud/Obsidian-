@@ -1,0 +1,12 @@
+{
+  "commitMessage": "Vault update: {{date}}",
+  "autoCommitMessage": "Vault update: {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm",
+  "autoSaveInterval": 5,
+  "autoPullInterval": 5,
+  "autoPullOnBoot": true,
+  "disablePush": false,
+  "pullBeforePush": true,
+  "disablePopups": false,
+  "listChangedFilesInMessageBody": false
+}
