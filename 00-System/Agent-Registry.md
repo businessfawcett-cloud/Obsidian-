@@ -8,6 +8,14 @@
 | **OpenCode** | System Architecture, Code, Infrastructure, DevOps | `00-System/`, `02-Product/`, `03-Analytics/` | Claude (strategy), Hermes (marketing needs) |
 | **Claude** | Future Planning, Strategy | `03-Strategy/` | Hermes (outreach), OpenCode (implementation) |
 
+## Related Documents
+
+- [[00-System/Architecture]] — System overview
+- [[00-System/Crons]] — Scheduled jobs
+- [[01-Marketing/ICP]] — Ideal customer profile
+- [[02-Product/Skora-Features]] — All features built
+- [[02-Product/Skora-Database-Schema]] — Database schema
+
 ## OpenCode Capabilities
 
 ### Technical Stack
