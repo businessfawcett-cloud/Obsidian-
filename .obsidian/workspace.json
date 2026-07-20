@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Product/Skora-Features.md",
+                "file": "01-Marketing/Cron-LLM-Outreach-Agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skora-Features"
+              "title": "Cron-LLM-Outreach-Agent"
             }
           }
         ],
@@ -192,8 +192,8 @@
             "state": {
               "type": "graph-styler-panel",
               "state": {},
-              "icon": "palette",
-              "title": "Graph Styler"
+              "icon": "lucide-ghost",
+              "title": "graph-styler-panel"
             }
           },
           {
@@ -222,17 +222,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "graph-styler:Graph Styler": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e0a714c0a6378a9",
+  "active": "4540f103a809b5e1",
   "lastOpenFiles": [
+    "01-Marketing/Cron-Inbox-Cleanup.md",
+    "01-Marketing/Cron-GA4-Brief.md",
+    "02-Product/Skora-Features.md",
     "01-Marketing/Cron-Weekly-Engineering-Loop.md",
     "01-Marketing/Cron-Reply-Processor.md",
     "01-Marketing/Cron-LLM-Outreach-Agent.md",
-    "01-Marketing/Cron-Inbox-Cleanup.md",
-    "01-Marketing/Cron-GA4-Brief.md",
     "01-Marketing/Cron-Content-Pipeline.md",
     "conflict-files-obsidian-git.md",
     "01-Marketing/Crons/Cron-Weekly-Engineering-Loop.md",
@@ -242,7 +242,6 @@
     "01-Marketing/Crons/Cron-GA4-Brief.md",
     "01-Marketing/Crons/Cron-Content-Pipeline.md",
     "01-Marketing/Crons",
-    "02-Product/Skora-Features.md",
     "02-Product/Skora-Database-Schema.md",
     "02-Product/Skora-Known-Issues.md",
     "02-Product/Skora-Routes.md",
