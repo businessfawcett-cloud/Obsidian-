@@ -1,21 +1,20 @@
-# Skora Admit — Master Index
+# Skora — Master Index
 
-This vault contains all strategic docs, system designs, and operating procedures for Skora Admit.
+## Agent Rules
+**Read `00-System/Agent-Registry.md` first.** Know your domain. Delegate outside your lane.
 
-## 📁 Structure
-- [[00-System/Architecture]] — System overview
-- [[00-System/Crons]] — All scheduled jobs
-- [[00-System/Agent-Registry]] — **Agent domain ownership (read first)**
-- [[01-Marketing/ICP]] — Ideal Customer Profile
-- [[01-Marketing/Outreach]] — Outreach system
-- [[01-Marketing/Content]] — Content/SEO pipeline
-- [[02-Product/Roadmap]] — Product roadmap
-- [[03-Analytics/GA4]] — Analytics setup
-- [[04-Ops/Deploy]] — Deployment procedures
-- [[05-Reference/Contacts]] — Key contacts
+## Structure
 
-## 🔗 Quick Links
+| Folder | Owner | Purpose |
+|--------|-------|---------|
+| `00-System/` | OpenCode | Architecture, Crons, Agent Registry |
+| `01-Marketing/` | Hermes | ICP, Outreach, Content |
+| `02-Product/` | OpenCode | Roadmap, Features |
+| `03-Strategy/` | Claude | Future Planning |
+| `04-Tasks/` | All | Delegation Queue |
+| `05-Archive/` | All | Completed Work |
+
+## Quick Links
 - **Live site:** https://skoraadmit.com
 - **Calendly:** https://calendly.com/parkerscottfawcett
-- **GA4 Property:** 544246547
-- **GTM Container:** GTM-54KPDD7F
+- **GitHub:** https://github.com/businessfawcett-cloud/Obsidian-
