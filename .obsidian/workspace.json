@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "69f78ec497726435",
+    "id": "df610a9ee15d76ef",
     "type": "split",
     "children": [
       {
-        "id": "a5ab5af57e3f5f98",
+        "id": "5184183bff2da821",
         "type": "tabs",
         "children": [
           {
-            "id": "2740460c91f8ea89",
+            "id": "a34072c8b53af592",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "06cacf57a1d3ce69",
+    "id": "05e91568ba157ff4",
     "type": "split",
     "children": [
       {
-        "id": "2cb7ce891dcfb95b",
+        "id": "ccee9cbfe6cf9c38",
         "type": "tabs",
         "children": [
           {
-            "id": "ee8b36f450c40372",
+            "id": "6e0a714c0a6378a9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "b987ea9e2807463d",
+            "id": "ef9fa24904725124",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "f0f9345ce0e15956",
+            "id": "afe81bf73d992b0f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +77,20 @@
     "width": 300
   },
   "right": {
-    "id": "87f7c73e4e87a977",
+    "id": "7a8b57a5994dbfb9",
     "type": "split",
     "children": [
       {
-        "id": "512644a5c850c8cd",
+        "id": "b877c5459564d8e5",
         "type": "tabs",
         "children": [
           {
-            "id": "f4ae1ab5b821c508",
+            "id": "20a62948cc471692",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Skora/00-System/Crons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Crons"
             }
           },
           {
-            "id": "402acc1201fe5e9c",
+            "id": "85ebbb50030fd0ba",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Skora/00-System/Crons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Crons"
             }
           },
           {
-            "id": "074ea5469db811cb",
+            "id": "538886fb87a2df01",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +133,7 @@
             }
           },
           {
-            "id": "11ac70860eebb111",
+            "id": "e5a6e495d65737a2",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,18 +147,18 @@
             }
           },
           {
-            "id": "553646170316643b",
+            "id": "9b06eed5f82259ce",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Skora/00-System/Crons.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Crons"
             }
           }
         ]
@@ -179,9 +179,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "2740460c91f8ea89",
+  "active": "a34072c8b53af592",
   "lastOpenFiles": [
-    "Welcome.md",
-    "create a link.md"
+    "Untitled.canvas",
+    "02-Product/Skora-Architecture.md",
+    "02-Product/Skora-Routes.md",
+    "02-Product/Skora-Known-Issues.md",
+    "02-Product/Skora-Features.md",
+    "02-Product/Skora-Database-Schema.md",
+    "02-Product/Skora-Content-SEO.md",
+    "02-Product/Skora-Admit-Outreach.md",
+    "00-System/Agent-Registry.md",
+    "01-Marketing/Skora-Admit-Outreach.md",
+    "01-Marketing/Skora-Content-SEO.md",
+    "02-Product/Skora-Multi-Tenancy.md",
+    "02-Product/Skora-Build-History.md",
+    "00-System/OpenCode-Config.md",
+    "02-Product/Roadmap.md",
+    "00-System/OpenCode-Profile.md",
+    "Untitled",
+    "00-System/Architecture.md",
+    "00-System/Crons.md",
+    "Index.md",
+    "01-Marketing/ICP.md",
+    "02-Product/Roadmap.md",
+    "01-Marketing/Outreach.md",
+    "Skora/Welcome.md",
+    "05-Archive",
+    "04-Tasks",
+    "03-Analytics/GA4.md",
+    "03-Analytics",
+    "02-Product",
+    "create a link.md",
+    "01-Marketing",
+    "02-Product",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "01-Marketing",
+    "00-System"
   ]
 }
