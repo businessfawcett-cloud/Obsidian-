@@ -30,6 +30,7 @@
 
 ### Marketing
 - [[01-Marketing/ICP]] — Ideal customer profile, lead scoring
+- [[01-Marketing/GA4]] — GA4 analytics, tracking
 
 ### Product
 - [[02-Product/Roadmap]] — Product roadmap, milestones
@@ -40,6 +41,3 @@
 - [[02-Product/Skora-Known-Issues]] — Issues, TODOs
 - [[02-Product/Skora-Admit-Outreach]] — Outreach system
 - [[02-Product/Skora-Content-SEO]] — Content pipeline
-
-### Analytics
-- [[03-Analytics/GA4]] — GA4 analytics, tracking
