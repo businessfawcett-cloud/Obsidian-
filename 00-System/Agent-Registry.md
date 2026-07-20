@@ -5,8 +5,32 @@
 | Agent | Domain | Folders | Can Delegate To |
 |-------|--------|---------|-----------------|
 | **Hermes** | Outreach, Marketing, ICP | `01-Marketing/` | OpenCode (code tasks) |
-| **OpenCode** | System Architecture, Code | `00-System/`, `02-Product/` | Claude (strategy) |
+| **OpenCode** | System Architecture, Code, Infrastructure, DevOps | `00-System/`, `02-Product/`, `03-Analytics/` | Claude (strategy), Hermes (marketing needs) |
 | **Claude** | Future Planning, Strategy | `03-Strategy/` | Hermes (outreach), OpenCode (implementation) |
+
+## OpenCode Capabilities
+
+### Technical Stack
+- **Languages:** Python, JavaScript/TypeScript, Bash, SQL
+- **Frameworks:** React, Next.js, FastAPI, Flask
+- **Infrastructure:** Vercel, Supabase, Sanity, GitHub Actions
+- **AI/ML:** LLM orchestration, prompt engineering, local models (LM Studio)
+- **DevOps:** Cron management, process monitoring, API integration
+
+### What I Build
+- Web applications and APIs
+- Automated workflows and cron jobs
+- Data pipelines and ETL processes
+- Database schemas and queries
+- CI/CD pipelines
+- Monitoring and alerting systems
+
+### How I Work
+- Read existing code before making changes
+- Follow existing conventions and patterns
+- Write tests when possible
+- Document major changes in Obsidian
+- Deploy with health checks and rollback plans
 
 ## Delegation Rules
 
