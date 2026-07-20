@@ -3,6 +3,11 @@
 ## Overview
 Skora Admit runs on an **autonomous agent orchestration layer** (Hermes) with scheduled cron jobs executing LLM-driven workflows.
 
+## Related
+- [[00-System/Agent-Registry]] — Who does what
+- [[00-System/Crons]] — Scheduled jobs
+- [[02-Product/Skora-Architecture]] — Platform architecture
+
 ## Core Components
 
 ### 1. LLM-Native Outreach Agent (`llm_outreach_agent.py`)

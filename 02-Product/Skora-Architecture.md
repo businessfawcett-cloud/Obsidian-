@@ -1,5 +1,12 @@
 # Skora — Complete Architecture & Build Log
 
+## Related
+- [[00-System/Architecture]] — System architecture
+- [[02-Product/Skora-Features]] — All features
+- [[02-Product/Skora-Database-Schema]] — Database schema
+- [[02-Product/Skora-Routes]] — All routes
+- [[01-Marketing/ICP]] — Target customers
+
 ## Overview
 
 **Skora** (formerly AdmitPath) is an AI-powered college counseling platform. Students get free essay feedback, admission-chance estimates, and college matching. Independent counselors and agencies pay for management tools and white-labeled portals to run their practice.

@@ -1,5 +1,10 @@
 # Ideal Customer Profile (ICP)
 
+## Related
+- [[00-System/Agent-Registry]] — Hermes owns this
+- [[02-Product/Skora-Admit-Outreach]] — Outreach system
+- [[02-Product/Skora-Features]] — Features built for ICP
+
 ## Target Segments
 
 ### Primary: Independent Consulting Firms
