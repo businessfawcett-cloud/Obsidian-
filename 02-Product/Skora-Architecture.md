@@ -87,15 +87,56 @@ More free students → Richer data → Better matching → More valuable counsel
 
 ---
 
+## Multi-Tenancy / White-Label Routing
+
+### Subdomain Routing
+- `<slug>.skoraadmit.com` → sets `skora_subdomain` cookie
+
+### Path-Slug Routing (Standard plan)
+- `skoraadmit.com/<slug>` → rewritten to `/` with `skora_path_slug` cookie
+
+### Root Page Logic
+- Reads cookie, fetches counselor's brand
+- Renders branded sign-in screen instead of default marketing homepage
+- Cached in `localStorage['skora_brand']`
+
+### Plan Limits
+| Plan | White-Label | Custom Domain |
+|------|-------------|---------------|
+| Basic | No | No |
+| Standard | Yes (path slug) | No |
+| Agency | Yes (subdomain) | Yes |
+
+---
+
+## Build History
+
+### May 2026
+- Sentry integration for error monitoring
+- Production error tracking setup
+- Initial platform launch
+
+### June 2026
+- Essay system redesign
+- AI counselor implementation
+- Groq SDK integration for essay review
+
+### July 2026
+- White-label routing implementation
+- Counselor portal completion
+- Stripe webhook integration
+- Content pipeline automation
+- Outreach agent deployment
+
+---
+
 ## Detailed Documentation
 
 | Document | Description |
 |----------|-------------|
 | `02-Product/Skora-Features.md` | All 25 features built |
 | `02-Product/Skora-Database-Schema.md` | Database tables and schema |
-| `02-Product/Skora-Multi-Tenancy.md` | White-label routing system |
 | `02-Product/Skora-Routes.md` | Complete page and route list |
-| `02-Product/Skora-Build-History.md` | Timeline and milestones |
 | `02-Product/Skora-Known-Issues.md` | Issues, TODOs, success criteria |
 | `02-Product/Skora-Admit-Outreach.md` | Outreach system and email infra |
 | `02-Product/Skora-Content-SEO.md` | Content pipeline and SEO |

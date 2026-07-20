@@ -39,12 +39,10 @@
 | Document | Description |
 |----------|-------------|
 | `02-Product/Roadmap.md` | Product roadmap, milestones, metrics |
-| `02-Product/Skora-Architecture.md` | Platform overview, tech stack, architecture diagram |
+| `02-Product/Skora-Architecture.md` | Platform overview, tech stack, architecture, multi-tenancy, build history |
 | `02-Product/Skora-Features.md` | All 25 features built |
 | `02-Product/Skora-Database-Schema.md` | Database tables and schema |
-| `02-Product/Skora-Multi-Tenancy.md` | White-label routing system |
 | `02-Product/Skora-Routes.md` | Complete page and route list |
-| `02-Product/Skora-Build-History.md` | Timeline and milestones |
 | `02-Product/Skora-Known-Issues.md` | Issues, TODOs, success criteria |
 | `02-Product/Skora-Admit-Outreach.md` | Outreach system, email infra, ICP scoring, leads |
 | `02-Product/Skora-Content-SEO.md` | Content pipeline, SEO strategy, data sources |
