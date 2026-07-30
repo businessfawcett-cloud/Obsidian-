@@ -1,0 +1,13 @@
+# Task: Content Pipeline Migration
+- **From:** Hermes
+- **To:** OpenCode
+- **Priority:** High
+- **Status:** Pending
+- **Description:** Take over the daily content pipeline (2 AM MT) for programmatic SEO page generation. Currently: 5 college pages + 10 state pages + 20 blog posts daily. Update sitemap, submit to IndexNow, trigger Vercel deploy.
+- **Context:** 
+  - Script: `/home/clause/skora-content/content-pipeline.py`
+  - Generator: `/home/clause/skora-content/generate_pages.py`
+  - Output: `/home/clause/skora-content/programmatic/`
+  - Docs: `02-Product/Skora-Content-SEO.md`
+  - Current cron: `2a8e8a2b4a59` (PAUSED)
+- **Created:** 2026-07-30
