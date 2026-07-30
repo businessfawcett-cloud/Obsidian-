@@ -1,8 +1,8 @@
-# Content Pipeline
+# Content Pipeline (PAUSED — OpenCode's domain)
 
-**Job ID:** `2a8e8a2b4a59`
+**Job ID:** `2a8e8a2b4a59` (PAUSED)
 **Schedule:** `0 2 * * *` (2 AM daily)
-**Owner:** Hermes
+**Owner:** OpenCode (programming/SEO)
 **Script:** `/home/clause/skora-content/content-pipeline.py`
 **Output:** `/home/clause/skora-content/programmatic/`
 
@@ -14,6 +14,10 @@
 - Updates sitemap.xml
 - Submits new URLs to IndexNow (Bing/Yandex)
 - Triggers Vercel deploy
+
+## Status
+
+**PAUSED** — SEO page generation moved to OpenCode (programming domain). Hermes owns marketing/outreach only.
 
 ## Logs
 
